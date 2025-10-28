@@ -7,7 +7,6 @@ const App = () => {
     <>
     <Navbar /> 
     <Card name='Bhola' />
-    <Card name='Rahul' />
     </>
   )
 }
